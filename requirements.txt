@@ -23,7 +23,6 @@ jupyter==1.0.0
 jupyter-client==5.1.0
 jupyter-console==5.2.0
 jupyter-core==4.3.0
-libpytunes==1.5.2
 MarkupSafe==1.0
 matplotlib==2.0.2
 mistune==0.7.4
@@ -40,7 +39,6 @@ prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 Pygments==2.2.0
 pyparsing==2.2.0
-pyreclab==0.1.6
 python-dateutil==2.6.1
 pytz==2017.2
 pyzmq==16.0.2
