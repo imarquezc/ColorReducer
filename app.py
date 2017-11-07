@@ -16,7 +16,7 @@ def allowed_file(filename):
 
 @app.route('/uploads/<filename>')
 def uploaded_file(filename):
-    performReduction(filename, "5")
+    performReduction(filename, "2")
     return send_from_directory(app.config['UPLOAD_FOLDER'],
         filename)
 
