@@ -13,7 +13,7 @@ idna==2.5
 ipywidgets==7.0.0
 itsdangerous==0.24
 jedi==0.10.2
-Jinja2==2.9.6
+Jinja2==2.11.3
 jsonschema==2.6.0
 MarkupSafe==1.0
 matplotlib==2.0.2
